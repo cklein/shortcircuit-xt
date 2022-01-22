@@ -7,7 +7,6 @@
 #include "synthesis/biquadunit.h"
 #include <vt_dsp/basic_dsp.h>
 #include <vt_dsp/halfratefilter.h>
-#include <vt_dsp/lattice.h>
 #include <vt_dsp/lipol.h>
 
 // FIXME

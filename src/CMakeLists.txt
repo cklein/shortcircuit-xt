@@ -56,8 +56,6 @@ set(VEMBERTECH_SOURCE
         vembertech/vt_util/vt_lockfree.cpp
         vembertech/vt_dsp/halfratefilter.cpp
         vembertech/vt_dsp/lipol.cpp
-        vembertech/vt_dsp/lattice.cpp
-        vembertech/vt_dsp/macspecific.cpp
         vembertech/vt_dsp/basic_dsp.cpp)
 
 
