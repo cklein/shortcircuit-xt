@@ -333,24 +333,24 @@ enum mm_curves
 };
 
 const char mmc_abberations[mmc_num_types][8] = {
-    "}x",
+    "x",
     "1-x",
-    "x�",
-    "x�",
-    "��", // custom chars in font for sqrt(x)
-    "��", // custom chars in font for cubert(x)
+    "x²",
+    "x³",
+    "√x",
+    "∛x",
     //"exp",
     "abs",
-    "+��",
-    "��+",
+    "+▶±",
+    "±▶+",
     "tri",
-    "tr�",
+    "tr±",
     "pos",
     "neg",
     ">0",
     "<0",
-    ">�",
-    "<�",
+    ">½",
+    "<½",
     "pol",
     //	"init",		never changes after attack
     "Q1",
